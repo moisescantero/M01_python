@@ -1,0 +1,5 @@
+#registro de entradas para zoo06
+
+
+1,0,2,1
+
